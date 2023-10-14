@@ -138,30 +138,38 @@ Yilin Niu\*, **Fangkai Jiao**\*, Mantong Zhou, Ting Yao, Jingfang Xu and Minlie 
 ## **Experience**
 
 ### **Lanboat** `2022.4 - 2022.7`
-_Intern._   Mentored by [Yulong Wang](https://github.com/Ag2S1) and advised by Dr. [Ming Zhou](https://scholar.google.co.jp/citations?user=a0w5c0gAAAAJ&hl=en)  
-Working on semantic parsing (NL2SQL) and machine reasoning.
+_Intern._ Worked on semantic parsing (NL2SQL) and machine reasoning. Mentored by [Yulong Wang](https://github.com/Ag2S1) and advised by Dr. [Ming Zhou](https://scholar.google.co.jp/citations?user=a0w5c0gAAAAJ&hl=en)  
+
 
 <!-- ### **ByteCamp, Bytedance** `2021.8.1 - 2021.8.7`
 Working on self-supervised pre-training for dialogue response selection. -->
 
 ### **Damo Academy, Alibaba Group** `2020.7 - 2021.2`
-_Research Intern._   Advised by Dr. [Feng Ji](http://scholar.google.com/citations?user=BxWZ-ZgAAAAJ&hl=zh-CN) and Dr. [Feng-Lin Li](http://scholar.google.it/citations?user=xo_dfnMAAAAJ&hl=en)  
-Working on Pre-training for question answering.
+_Research Intern._ Worked on pre-training for question answering. Advised by Dr. [Feng Ji](http://scholar.google.com/citations?user=BxWZ-ZgAAAAJ&hl=zh-CN) and Dr. [Feng-Lin Li](http://scholar.google.it/citations?user=xo_dfnMAAAAJ&hl=en)  
+
 
 ### **CoAI Group, Tsinghua University** `2018.10 - 2019.8`
 
-_Research Intern._   Advised by Prof. [Minlie Huang](http://coai.cs.tsinghua.edu.cn/hml)  
-Working on reading comprehension and dialogue state tracking.
+_Research Intern._ Worked on reading comprehension and dialogue state tracking. Advised by Prof. [Minlie Huang](http://coai.cs.tsinghua.edu.cn/hml)  
+
 
 ## **Honors & Awards**
 
-Dean's Scholarship `School of Computer Science and Technology, Shandong University, 2021` <br>
+<!-- Dean's Scholarship `School of Computer Science and Technology, Shandong University, 2021` <br>
 Dean Scholarship `School of Software, 2018` <br>
 Bronze Medal in the ACM-ICPC Asia Regional Contest Urumqi Site `ICPC, 2017` <br>
 Silver Medal in the ACM-ICPC Asia Regional Contest Qingdao Site `ICPC, 2017` <br>
 Bronze Medal in the ACM-ICPC Asia Regional Contest China-Final `ICPC, 2016` <br>
 Silver Medal in the ACM-ICPC Asia Regional Contest Qingdao Site `ICPC, 2016` <br>
+National Scholarship `Ministry of Education, 2016` <br> -->
+Dean's Scholarship `School of Computer Science and Technology, Shandong University, 2021` <br>
+Dean Scholarship `School of Software, 2018` <br>
+ACM-ICPC Asia Regional Contest Bronze Medal (Urumqi Site), and Silver Medal (Qingdao Site) `ICPC, 2017` <br>
+<!-- Silver Medal in the ACM-ICPC Asia Regional Contest Qingdao Site `ICPC, 2017` <br> -->
+ACM-ICPC Asia Regional Contest Bronze Medal (China Final), and Silver Medal (Qingdao Site) `ICPC, 2016` <br>
+<!-- Silver Medal in the ACM-ICPC Asia Regional Contest Qingdao Site `ICPC, 2016` <br> -->
 National Scholarship `Ministry of Education, 2016` <br>
+
 
 ---
 
