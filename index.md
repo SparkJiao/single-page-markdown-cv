@@ -27,7 +27,7 @@ Supported arguments:
 ### Nanyang Technological University & Infocomm Research (I2R), A*STAR - Ph.D. `2022.8 - 2026.6 (expected)`
 
 <!-- - Ph.D. in Computer Science and Engineering -->
-- Supervisor: Assoc Prof. Aixin Sun, Assoc Prof. Shafiq Joty, Dr. Nancy F. Chen 
+- Supervisor: Assoc Prof. [Shafiq Joty](https://raihanjoty.github.io/), Dr. [Nancy F. Chen](https://sites.google.com/site/nancyfchen/home), Assoc Prof. [Aixin Sun](https://personal.ntu.edu.sg/axsun/) 
 
 ### Shandong University - M.Eng. `2019.9 - 2022.6`
 
@@ -52,31 +52,31 @@ GPA: 85.03/100
 - Large langauge models
 - Self/weak-supervised pre-training -->
 
-Machine reasoning, large language models, and self/weak-supervised pre-training.
+Machine reasoning, large language models, and self/weak-supervised learning.
 
 ## **Publications**
 <!-- <font size=2>* means equal contribution.</font> -->
 ##### \* means equal contribution.
 
 ### **SeaEval for Multilingual Foundation Models: From Cross-Lingual Alignment to Cultural Reasoning**
-Bin Wang*, Zhengyuan Liu*, Xin Huang, **Fangkai Jiao**, Yang Ding, Ai Ti Aw, Nancy F. Chen. _Preprint._
+Bin Wang*, Zhengyuan Liu*, Xin Huang, **Fangkai Jiao**, Yang Ding, Ai Ti Aw, Nancy F. Chen. _Preprint (Under review at ARR)._
 [[pdf](https://arxiv.org/abs/2309.04766)]
 
 ### **LogicLLM: Exploring Self-supervised Logic-enhanced Training for Large Language Models**
-**Fangkai Jiao**, Zhiyang Teng, Shafiq Joty, Bosheng Ding, Aixin Sun, Zhengyuan Liu, Nancy F. Chen. _Preprint._
+**Fangkai Jiao**, Zhiyang Teng, Shafiq Joty, Bosheng Ding, Aixin Sun, Zhengyuan Liu, Nancy F. Chen. _Preprint (Under review at ARR)._
 [[pdf](https://arxiv.org/abs/2305.13718)]
 [[code](https://github.com/SparkJiao/MERIt-v2)]
 
 
-### **Retrieving Multimodal Information for Augmented Generation: A Survey**  
-Ruochen Zhao, Hailin Chen, Weishi Wang, **Fangkai Jiao**, Xuan Long Do, Chengwei Qin, Bosheng Ding, Xiaobao Guo, Minzhi Li, Xingxuan Li, Shafiq Joty. _Findings of EMNLP 2023._
+### **Unanswerable Visual Question Answering**  
+Yangyang Gruo, **Fangkai Jiao**,  Zhiqi Shen, Liqiang Nie, Mohan Kankanhalli. _Preprint (under review at TPAMI)._
 [[pdf](https://arxiv.org/abs/2303.10868)]
 
 
 ### **Enhanced Multi-domain Dialogue State Tracker with Second-order Slot Interactions**  
-**Fangkai Jiao**, Yangyang Guo, Minlie Huang, and Liqiang Nie. _TASLP 2022._
-[[pdf]()]
-[[code]()]
+**Fangkai Jiao**, Yangyang Guo, Minlie Huang, and Liqiang Nie. _TASLP 2023._
+[[pdf](https://ieeexplore.ieee.org/document/9956734)]
+[[code](https://github.com/SparkJiao/dst-multi-woz-2.1/tree/master/CP-DST-update)]
 
 
 ### **MERIt: Meta-Path Guided Contrastive Learning for Logical Reasoning**
@@ -129,7 +129,7 @@ Yilin Niu\*, **Fangkai Jiao**\*, Mantong Zhou, Ting Yao, Jingfang Xu and Minlie 
 
 ### PandaLLM
 
-*Chinese Large Language Model (LLM) series based on LLaMA.*  [[code](https://github.com/dandelionsllm/pandallm)][[technical report](https://arxiv.org/pdf/2305.03025.pdf)] (900+ stars)
+*Chinese Large Language Model (LLM) series based on LLaMA.*  [[code](https://github.com/dandelionsllm/pandallm)][[technical report](https://arxiv.org/pdf/2305.03025.pdf)] (1k stars)
 
 <!-- ### SLQA
 
@@ -163,7 +163,7 @@ Bronze Medal in the ACM-ICPC Asia Regional Contest China-Final `ICPC, 2016` <br>
 Silver Medal in the ACM-ICPC Asia Regional Contest Qingdao Site `ICPC, 2016` <br>
 National Scholarship `Ministry of Education, 2016` <br> -->
 Dean's Scholarship `School of Computer Science and Technology, Shandong University, 2021` <br>
-Dean Scholarship `School of Software, 2018` <br>
+Dean's Scholarship `School of Software, 2018` <br>
 ACM-ICPC Asia Regional Contest Bronze Medal (Urumqi Site), and Silver Medal (Qingdao Site) `ICPC, 2017` <br>
 <!-- Silver Medal in the ACM-ICPC Asia Regional Contest Qingdao Site `ICPC, 2017` <br> -->
 ACM-ICPC Asia Regional Contest Bronze Medal (China Final), and Silver Medal (Qingdao Site) `ICPC, 2016` <br>
